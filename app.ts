@@ -22,7 +22,7 @@ router.get('/', (req, res) => {
 
 
 router.post('/api/v1/parse',API.APIV1);
-//router.post('/api/v2/parse',controller.APIV2);
+router.post('/api/v2/parse',API.APIV2);
 
    
 app.listen(port, err => {
