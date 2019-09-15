@@ -27,3 +27,7 @@ lastName: “MICHAEL”,<br>
 clientId: “999-4567”<br>
 }<br>
 }</p>
+<p class="has-line-data" data-line-start="0" data-line-end="2">![Screenshot 1](./screenshots/Screen Shot 2019-09-14 at 8.37.09 PM.png)<br>
+An example request for endpoint /api/v1/parse</p>
+<p class="has-line-data" data-line-start="3" data-line-end="5">![Screenshot 2](./screenshots/Screen Shot 2019-09-14 at 8.37.24 PM.png)<br>
+An example request for endpoint /api/v2/parse</p>
